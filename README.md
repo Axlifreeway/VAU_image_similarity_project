@@ -9,14 +9,15 @@
 - `inference_notebook.ipynb`: Jupyter-блокнот с кодом для инференса и визуализации результатов.
 - `requirements.txt`: Список зависимостей, необходимых для запуска проекта.
 - `trained_model.pth`: Веса обученной модели.
+- `VAU_Train`: Блокнот с обучением модели
 - [Ссылка на скачивание тестового набора данных](https://disk.yandex.ru/d/5RngW1_VZEflnw)
 
 ## Установка
 
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/your-username/image_similarity_project.git
-    cd image_similarity_project
+    git clone https://github.com/Axlifreeway/VAU_image_similarity_project.git
+    cd VAU_image_similarity_project
     ```
 
 2. Установите зависимости:
