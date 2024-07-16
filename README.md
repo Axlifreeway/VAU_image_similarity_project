@@ -16,8 +16,8 @@
 
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/your-username/image_similarity_project.git
-    cd image_similarity_project
+    git clone https://github.com/Axlifreeway/VAU_image_similarity_project.git
+    cd VAU_image_similarity_project
     ```
 
 2. Установите зависимости:
