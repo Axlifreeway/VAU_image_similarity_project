@@ -9,7 +9,7 @@
 - `inference_notebook.ipynb`: Jupyter-блокнот с кодом для инференса и визуализации результатов.
 - `requirements.txt`: Список зависимостей, необходимых для запуска проекта.
 - `trained_model.pth`: Веса обученной модели.
-- [Ссылка на скачивание тестового набора данных](https://example.com/anomalous_dataset.csv)
+- [Ссылка на скачивание тестового набора данных](https://disk.yandex.ru/d/5RngW1_VZEflnw)
 
 ## Установка
 
